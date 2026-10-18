@@ -1,0 +1,17 @@
+PokerNight-CN v0.2.1
+
+Noto Sans SC Regular / Bold
+Font license: SIL Open Font License 1.1.
+See licenses/OFL.txt and licenses/Noto-Copyright.txt.
+Upstream: https://github.com/notofonts/noto-cjk
+The package embeds fonts into mod resources; it does not install system fonts.
+
+TTG Tools v1.16.1
+The existing resource archives were produced using TTG Tools.
+The player package does not include TTG Tools or require it at runtime.
+Upstream: https://github.com/HeitorSpectre/TTG-Tools
+
+Poker Night at the Inventory Remastered and its original content belong to
+their respective rights holders. This is a community Simplified Chinese mod.
+This package does not include the base game or its original complete archives.
+Third-party materials are not covered by any license chosen for installer code.

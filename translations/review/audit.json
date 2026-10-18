@@ -1,0 +1,898 @@
+{
+  "unique_entries": 2128,
+  "translations": 2128,
+  "marker_errors": [],
+  "numeric_differences": [
+    {
+      "uid": "u00818",
+      "source_numbers": [],
+      "target_numbers": [
+        "10"
+      ],
+      "source": "Ten high.",
+      "target": "10 高牌。"
+    },
+    {
+      "uid": "u00819",
+      "source_numbers": [],
+      "target_numbers": [
+        "9"
+      ],
+      "source": "Nine high.",
+      "target": "9 高牌。"
+    },
+    {
+      "uid": "u00820",
+      "source_numbers": [],
+      "target_numbers": [
+        "8"
+      ],
+      "source": "Eight high.",
+      "target": "8 高牌。"
+    },
+    {
+      "uid": "u00821",
+      "source_numbers": [],
+      "target_numbers": [
+        "7"
+      ],
+      "source": "Seven high.",
+      "target": "7 高牌。"
+    },
+    {
+      "uid": "u00826",
+      "source_numbers": [],
+      "target_numbers": [
+        "10"
+      ],
+      "source": "A pair of tens.",
+      "target": "一对 10。"
+    },
+    {
+      "uid": "u00827",
+      "source_numbers": [],
+      "target_numbers": [
+        "9"
+      ],
+      "source": "A pair of nines.",
+      "target": "一对 9。"
+    },
+    {
+      "uid": "u00828",
+      "source_numbers": [],
+      "target_numbers": [
+        "8"
+      ],
+      "source": "A pair of eights.",
+      "target": "一对 8。"
+    },
+    {
+      "uid": "u00829",
+      "source_numbers": [],
+      "target_numbers": [
+        "7"
+      ],
+      "source": "A pair of sevens.",
+      "target": "一对 7。"
+    },
+    {
+      "uid": "u00830",
+      "source_numbers": [],
+      "target_numbers": [
+        "6"
+      ],
+      "source": "A pair of sixes.",
+      "target": "一对 6。"
+    },
+    {
+      "uid": "u00831",
+      "source_numbers": [],
+      "target_numbers": [
+        "5"
+      ],
+      "source": "A pair of fives.",
+      "target": "一对 5。"
+    },
+    {
+      "uid": "u00832",
+      "source_numbers": [],
+      "target_numbers": [
+        "4"
+      ],
+      "source": "A pair of fours.",
+      "target": "一对 4。"
+    },
+    {
+      "uid": "u00833",
+      "source_numbers": [],
+      "target_numbers": [
+        "3"
+      ],
+      "source": "A pair of threes.",
+      "target": "一对 3。"
+    },
+    {
+      "uid": "u00834",
+      "source_numbers": [],
+      "target_numbers": [
+        "2"
+      ],
+      "source": "A pair of twos.",
+      "target": "一对 2。"
+    }
+  ],
+  "english_only": [
+    {
+      "uid": "u00133",
+      "source": "{dejected1}****.",
+      "target": "{dejected1}****。",
+      "refs": [
+        {
+          "file": "banter_english.landb",
+          "id": "239247637"
+        },
+        {
+          "file": "banter_english.landb",
+          "id": "239247638"
+        },
+        {
+          "file": "tycho_heavy_english.landb",
+          "id": "239136778"
+        },
+        {
+          "file": "tycho_heavy_english.landb",
+          "id": "239136942"
+        }
+      ]
+    },
+    {
+      "uid": "u00155",
+      "source": "Tycho.",
+      "target": "Tycho。",
+      "refs": [
+        {
+          "file": "banter_english.landb",
+          "id": "239247681"
+        },
+        {
+          "file": "banter_english.landb",
+          "id": "239247682"
+        },
+        {
+          "file": "tycho_heavy_english.landb",
+          "id": "239136849"
+        },
+        {
+          "file": "tycho_heavy_english.landb",
+          "id": "239136964"
+        }
+      ]
+    },
+    {
+      "uid": "u00280",
+      "source": "Banang.",
+      "target": "Banang。",
+      "refs": [
+        {
+          "file": "banter_english.landb",
+          "id": "239247937"
+        },
+        {
+          "file": "banter_english.landb",
+          "id": "239247938"
+        },
+        {
+          "file": "strongbad_tycho_max_english.landb",
+          "id": "239120408"
+        },
+        {
+          "file": "strongbad_tycho_max_english.landb",
+          "id": "239120435"
+        }
+      ]
+    },
+    {
+      "uid": "u00322",
+      "source": "{frustrated1}[Dismissive, almost to himself] ******* chuwero.",
+      "target": "{frustrated1}[Dismissive, almost to himself]******* Chuwero。",
+      "refs": [
+        {
+          "file": "banter_english.landb",
+          "id": "239248051"
+        },
+        {
+          "file": "banter_english.landb",
+          "id": "239248052"
+        },
+        {
+          "file": "strongbad_tycho_heavy_english.landb",
+          "id": "239116328"
+        },
+        {
+          "file": "strongbad_tycho_heavy_english.landb",
+          "id": "239116388"
+        }
+      ]
+    },
+    {
+      "uid": "u00529",
+      "source": "{devastated1}[Sniffle, Tycho is crying]",
+      "target": "{devastated1}[Sniffle, Tycho is crying]",
+      "refs": [
+        {
+          "file": "banter_english.landb",
+          "id": "239248514"
+        },
+        {
+          "file": "strongbad_tycho_heavy_max_english.landb",
+          "id": "239112201"
+        },
+        {
+          "file": "strongbad_tycho_heavy_max_english.landb",
+          "id": "239112231"
+        }
+      ]
+    },
+    {
+      "uid": "u01050",
+      "source": "[Snores]",
+      "target": "[Snores]",
+      "refs": [
+        {
+          "file": "max_english.landb",
+          "id": "239096058"
+        }
+      ]
+    },
+    {
+      "uid": "u01262",
+      "source": "{sarcastic1}****!",
+      "target": "{sarcastic1}****！",
+      "refs": [
+        {
+          "file": "responses_english.landb",
+          "id": "239194270"
+        },
+        {
+          "file": "responses_english.landb",
+          "id": "239194451"
+        },
+        {
+          "file": "responses_english.landb",
+          "id": "239194475"
+        },
+        {
+          "file": "responses_english.landb",
+          "id": "239194529"
+        },
+        {
+          "file": "tycho_english.landb",
+          "id": "239100413"
+        }
+      ]
+    },
+    {
+      "uid": "u01842",
+      "source": "Poker Night at the Inventory",
+      "target": "Poker Night at the Inventory",
+      "refs": [
+        {
+          "file": "ui_menu_english.landb",
+          "id": "239218730"
+        }
+      ]
+    },
+    {
+      "uid": "u01895",
+      "source": "Tycho",
+      "target": "Tycho",
+      "refs": [
+        {
+          "file": "ui_player_english.landb",
+          "id": "239206401"
+        }
+      ]
+    },
+    {
+      "uid": "u01897",
+      "source": "Strong Bad",
+      "target": "Strong Bad",
+      "refs": [
+        {
+          "file": "ui_player_english.landb",
+          "id": "239206403"
+        }
+      ]
+    },
+    {
+      "uid": "u01931",
+      "source": "A",
+      "target": "A",
+      "refs": [
+        {
+          "file": "ui_player_english.landb",
+          "id": "239206440"
+        }
+      ]
+    },
+    {
+      "uid": "u01932",
+      "source": "K",
+      "target": "K",
+      "refs": [
+        {
+          "file": "ui_player_english.landb",
+          "id": "239206442"
+        }
+      ]
+    },
+    {
+      "uid": "u01933",
+      "source": "Q",
+      "target": "Q",
+      "refs": [
+        {
+          "file": "ui_player_english.landb",
+          "id": "239206443"
+        }
+      ]
+    },
+    {
+      "uid": "u01934",
+      "source": "J",
+      "target": "J",
+      "refs": [
+        {
+          "file": "ui_player_english.landb",
+          "id": "239206444"
+        }
+      ]
+    },
+    {
+      "uid": "u02004",
+      "source": "“Enthusiast’s Timepiece”",
+      "target": "“Enthusiast’s Timepiece”",
+      "refs": [
+        {
+          "file": "ui_statistics_english.landb",
+          "id": "239226886"
+        }
+      ]
+    },
+    {
+      "uid": "u02024",
+      "source": "Ziggy Flophouser",
+      "target": "Ziggy Flophouser",
+      "refs": [
+        {
+          "file": "ui_statistics_english.landb",
+          "id": "239226918"
+        }
+      ]
+    },
+    {
+      "uid": "u02026",
+      "source": "Bobo Woodcoin",
+      "target": "Bobo Woodcoin",
+      "refs": [
+        {
+          "file": "ui_statistics_english.landb",
+          "id": "239226921"
+        }
+      ]
+    },
+    {
+      "uid": "u02031",
+      "source": "Suzy Sideking",
+      "target": "Suzy Sideking",
+      "refs": [
+        {
+          "file": "ui_statistics_english.landb",
+          "id": "239226926"
+        }
+      ]
+    },
+    {
+      "uid": "u02040",
+      "source": "Poorpockets McNewhols",
+      "target": "Poorpockets McNewhols",
+      "refs": [
+        {
+          "file": "ui_statistics_english.landb",
+          "id": "239226936"
+        }
+      ]
+    },
+    {
+      "uid": "u02048",
+      "source": "Team Fortress 2",
+      "target": "Team Fortress 2",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239178"
+        }
+      ]
+    },
+    {
+      "uid": "u02049",
+      "source": "Homestar Runner",
+      "target": "Homestar Runner",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239179"
+        }
+      ]
+    },
+    {
+      "uid": "u02051",
+      "source": "Penny Arcade",
+      "target": "Penny Arcade",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239181"
+        }
+      ]
+    },
+    {
+      "uid": "u02053",
+      "source": "Telltale Games",
+      "target": "Telltale Games",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239188"
+        }
+      ]
+    },
+    {
+      "uid": "u02054",
+      "source": "Automata",
+      "target": "Automata",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239189"
+        }
+      ]
+    },
+    {
+      "uid": "u02057",
+      "source": "Videlectrix",
+      "target": "Videlectrix",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239192"
+        }
+      ]
+    },
+    {
+      "uid": "u02059",
+      "source": "Strong Badia",
+      "target": "Strong Badia",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239194"
+        }
+      ]
+    },
+    {
+      "uid": "u02060",
+      "source": "Team Fortress",
+      "target": "Team Fortress",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239195"
+        }
+      ]
+    },
+    {
+      "uid": "u02064",
+      "source": "Trogdor",
+      "target": "Trogdor",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239202"
+        }
+      ]
+    },
+    {
+      "uid": "u02070",
+      "source": "- - - ?? - - -",
+      "target": "- - - ?? - - -",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239208"
+        }
+      ]
+    },
+    {
+      "uid": "u02071",
+      "source": "Poker Night",
+      "target": "Poker Night",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239209"
+        },
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239213"
+        }
+      ]
+    },
+    {
+      "uid": "u02072",
+      "source": "Grickle",
+      "target": "Grickle",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239210"
+        }
+      ]
+    },
+    {
+      "uid": "u02075",
+      "source": "Skunkape Games",
+      "target": "Skunkape Games",
+      "refs": [
+        {
+          "file": "ui_unlocks_english.landb",
+          "id": "239239214"
+        }
+      ]
+    }
+  ],
+  "review_changes": [
+    {
+      "uid": "u00312",
+      "before": "我说，{angry1}Tycho，{default1}听说你{angry1}挺把你那了不起的自己{default1}当回事，还算个网络名人？",
+      "after": "我说，{angry1}Tycho，{default1}听说你{angry1}自命不凡，觉得自己{default1}也算个网络名人啊。",
+      "review": "banter_review.json"
+    },
+    {
+      "uid": "u00313",
+      "before": "{frustrated1}自以为什么都算，和真正是什么，区别可大着呢。",
+      "after": "{frustrated1}自认是个名人，和真的有名，可是两回事。",
+      "review": "banter_review.json"
+    },
+    {
+      "uid": "u00322",
+      "before": "{frustrated1}[Dismissive, almost to himself]*******混蛋。",
+      "after": "{frustrated1}[Dismissive, almost to himself]******* Chuwero。",
+      "review": "banter_review.json"
+    },
+    {
+      "uid": "u00503",
+      "before": "嘿，机枪男，你能不能{annoyed1}帮我收拾一下镇长国王？",
+      "after": "嘿，机枪男，你能不能{annoyed1}帮我收拾一下King of Town？",
+      "review": "banter_review.json"
+    },
+    {
+      "uid": "u00509",
+      "before": "{annoyed1}天哪，你绝对会把镇长国王杀了，对吧？{excited1}算啦！",
+      "after": "{annoyed1}天哪，你绝对会把King of Town杀了，对吧？{excited1}算啦！",
+      "review": "banter_review.json"
+    },
+    {
+      "uid": "u01258",
+      "before": "{pissed1}啊，操！",
+      "after": "{pissed1}啊，****！",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01262",
+      "before": "{sarcastic1}操！",
+      "after": "{sarcastic1}****！",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01286",
+      "before": "{stunned1}他妈的太猛了！",
+      "after": "{stunned1}****太猛了！",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01413",
+      "before": "要我说，牌打得烂还只能排第二，第一是{pissed1}当个四英尺高、连身体构造都看不出来的混账。",
+      "after": "要我说，牌打得烂还只能排第二，第一是{pissed1}当个四英尺高、连身体构造都看不出来的*******。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01589",
+      "before": "我也不知道自己造了什么孽，才摊上这种牌。{dejected1}可能昨天骂那个女人是超级婊子，今天就遭报应了。",
+      "after": "我也不知道自己造了什么孽，才摊上这种牌。{dejected1}可能昨天骂那个女人是超级****，今天就遭报应了。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01591",
+      "before": "{frustrated1}这就像他妈的连续摸到九张法术力牌。{worried1}有人懂吗？",
+      "after": "{frustrated1}这就像****连续摸到九张法术力牌。{worried1}有人懂吗？",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01592",
+      "before": "{pissed1}去他妈的破玩意。",
+      "after": "{pissed1}去****的，这坨****。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01594",
+      "before": "要说烂透的翻牌，{frustrated1}这次可是烂得毫无争议。",
+      "after": "要说****一样的翻牌，{frustrated1}这次绝对就是****。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01596",
+      "before": "嗯，意思就是命运一翻脸，你就被操翻了。{frustrated1}跟这次翻牌差不多。{default1}我弃牌。",
+      "after": "嗯，意思就是命运一翻脸，你就被****了。{frustrated1}跟这次翻牌差不多。{default1}我弃牌。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01601",
+      "before": "在1600年代初，这指的是国王往农民身上拉屎。{frustrated1}我弃牌。",
+      "after": "在1600年代初，这指的是国王往农民身上拉一泡****。{frustrated1}我弃牌。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01604",
+      "before": "想想这游戏得多无聊，要到最后我才知道，自己原来要被操得多惨。",
+      "after": "想想这游戏得多无聊，要到最后我才知道，自己原来会被****得多惨。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01611",
+      "before": "哦，大人物觉得能把我吓出底池，是吧？{pissed1}操，他还真能。",
+      "after": "哦，大人物觉得能把我吓出底池，是吧？{pissed1}他还真****能。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01617",
+      "before": "那笔钱有毒疮，你知道吧。{sarcastic1}你的鸡巴上会长满绿斑。所以呢，{frustrated1}好好享受你的鸡巴斑吧。",
+      "after": "那笔钱有毒疮，你知道吧。{sarcastic1}你的****上会长满绿斑。所以呢，{frustrated1}好好享受你的****绿斑吧。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01626",
+      "before": "{mocking1}操，老弟，这点我跟得起。",
+      "after": "{mocking1}****，老弟，这点我跟得起。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01628",
+      "before": "{frustrated1}真他妈见鬼。我跟。",
+      "after": "{frustrated1}真是****见鬼了。我跟。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01638",
+      "before": "{frustrated1}好，这一注可他妈不是闹着玩的。{mocking1}它坚决不他妈瞎胡闹。{happy1}它的天性里就没有他妈瞎胡闹这一说。",
+      "after": "{frustrated1}好，这一注可不是****闹着玩的。{mocking1}它就是****不肯瞎胡闹。{happy1}它的天性里就没有****瞎胡闹这一说。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01641",
+      "before": "这牌他妈的火热。{frustrated1}我下注也得配得上它。",
+      "after": "这牌****火热。{frustrated1}我下注也得配得上它。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01646",
+      "before": "[Big raise] 加注。{mocking1}那可不是月亮，狗娘养的。",
+      "after": "[Big raise] 加注。{mocking1}那可不是月亮，你们这帮**********。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01658",
+      "before": "瞧瞧这他妈的好东西。",
+      "after": "瞧瞧这****。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01663",
+      "before": "{exuberant1}哦，我懂你的套路了。你上的是 Jonathan Gabriel 创办的‘拿一手狗屎牌上场再看会怎样’学院。",
+      "after": "{exuberant1}哦，我懂你的套路了。你上的是Jonathan Gabriel创办的‘拿一手****牌上场再看会怎样’学院。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01681",
+      "before": "{frustrated1}你能掷个“他妈快点”的检定吗？",
+      "after": "{frustrated1}你能掷个“****快点”的检定吗？",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01689",
+      "before": "赶{pissed1}他妈的紧吧！",
+      "after": "快{pissed1}****点吧！",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01690",
+      "before": "{exuberant1}他妈的，爽！",
+      "after": "{exuberant1}****，爽！",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01696",
+      "before": "嗯，你显然就是一坨满嘴谎话的狗屎。对吧？",
+      "after": "嗯，你显然就是一坨满嘴谎话的狗****。对吧？",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01701",
+      "before": "{frustrated1}你们得知道，我可不介意把你俩都干翻。{embarrassed1}在这手牌里。这一手。扑克。就是一种纸牌游戏。",
+      "after": "{frustrated1}你们得知道，我可不介意把你俩都****了。{embarrassed1}在这手牌里。这一手。扑克。就是一种纸牌游戏。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01714",
+      "before": "{frustrated1}这手牌可他妈惹不得。",
+      "after": "{frustrated1}这手牌可****惹不得。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01729",
+      "before": "{exuberant1}我操！这破玩意被我拿下了！",
+      "after": "{exuberant1}该死！这****被我拿下了！",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01731",
+      "before": "{exuberant1}叮，狗娘养的们。",
+      "after": "{exuberant1}叮，你们这帮****。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01734",
+      "before": "{happy1}女士们，先生们，相处愉快。{frustrated1}另外，各位都他妈滚蛋吧。",
+      "after": "{happy1}女士们，先生们，相处愉快。{frustrated1}另外，各位都各自去****吧。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01750",
+      "before": "{pissed1}别他妈坑我。听见没有，破牌？我是你们的君主。",
+      "after": "{pissed1}别****坑我。听见没有，破牌？我是你们的君主。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01752",
+      "before": "{pissed1}你他妈是会算牌的天体物理学家之类的玩意儿？猜得差不多吧？",
+      "after": "{pissed1}你是个会算牌、搞天体物理的******？猜得差不多吧？",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01753",
+      "before": "真他妈有意思。真是太棒了。",
+      "after": "真****有意思。真是太棒了。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01754",
+      "before": "{frustrated1}狗娘养的兔形目混蛋。",
+      "after": "{frustrated1}你这****兔形目动物的崽子。",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u01758",
+      "before": "{pissed1}你是哪种算牌的、搞天体物理的狗娘养的？我说得准吗？",
+      "after": "{pissed1}你是个会算牌、搞天体物理的******？猜得差不多吧？",
+      "review": "censorship_review.json"
+    },
+    {
+      "uid": "u00866",
+      "before": "{sarcastic}当然，这是在一九一〇年定下的金额。考虑到通货膨胀……嗯，让我算算……呃，{cocky}今晚的入场筹码就是一万美元。",
+      "after": "{sarcastic}当然，这是在 1910 年定下的金额。考虑到通货膨胀……嗯，让我算算……呃，{cocky}今晚的入场筹码就是一万美元。",
+      "review": "core_review.json"
+    },
+    {
+      "uid": "u00885",
+      "before": "{happy1}不过我带了这副酷炫无敌、帅到掉渣的 Dangeresque 墨镜。{default1}它怎么也值个五万十万的吧。",
+      "after": "{happy1}不过我带了这副酷炫无敌、帅到掉渣的 Dangeresque 墨镜。{default1}它怎么也值个五千、一万美元吧。",
+      "review": "core_review.json"
+    },
+    {
+      "uid": "u01175",
+      "before": "{confused1}你就这么弃牌了？那我还怎么摆出可爱兔兔脸，让你愧疚到拿着烂牌也不断加注啊。",
+      "after": "{confused1}你就这么弃牌了？那我还怎么摆出可爱兔兔脸，让你心一软，拿着烂牌也下重注啊。",
+      "review": "core_review.json"
+    },
+    {
+      "uid": "u01234",
+      "before": "[player wins tournament] {annoyed1}你知道我是故意让你赢的吧？{default1}偶尔也得让穷人体验一下有钱人的生活。",
+      "after": "[player wins tournament] {annoyed1}你知道我是故意让你赢的吧？{default1}我偶尔也想体验一下另一边的人过的是什么日子。",
+      "review": "core_review.json"
+    },
+    {
+      "uid": "u01266",
+      "before": "打得不错。{sarcastic1}咱俩一起走，去趟 OG——你请客——再拿剩下的钱买点新处理器，怎么样？{mocking1}现在那上面都装旋转轮毂了。",
+      "after": "打得不错。{sarcastic1}咱俩一起走，去趟 OG——你请客——再拿剩下的钱买些新 procs，怎么样？{mocking1}现在那上面都装旋转轮毂了。",
+      "review": "core_review.json"
+    },
+    {
+      "uid": "u02128",
+      "before": "想想吧，要不是直到最后才知道自己会被干得多惨，这游戏该多无聊。",
+      "after": "想想，要是非得等到最后才知道自己会被干得多惨，这游戏该多无聊。",
+      "review": "core_review.json"
+    },
+    {
+      "uid": "u02124",
+      "before": "我靠，兄弟，这把我有。",
+      "after": "我靠，兄弟，这点钱我跟得起。",
+      "review": "core_review.json"
+    },
+    {
+      "uid": "u00778",
+      "before": "[wins gear]也许可以拿这东西贿赂 The Cheat，让他干点{happy1}好笑到违法的事。",
+      "after": "[wins gear]也许可以拿这东西贿赂The Cheat，让他干点{happy1}违法又好笑的事。",
+      "review": "solos_review.json"
+    },
+    {
+      "uid": "u01089",
+      "before": "{aloof1}你知道扑克源自15世纪的德国纸牌游戏{happy1}“pochspiel”吗？那你知道我放屁停不下来，是因为吃了第15份德国酸菜和没煮熟的白香肠吗？",
+      "after": "{aloof1}你知道扑克源自15世纪的德国纸牌游戏{happy1}“pochspiel”吗？那你知道我放屁停不下来，是因为吃了第15份德国酸菜和没煮熟的Bockwurst香肠吗？",
+      "review": "solos_review.json"
+    },
+    {
+      "uid": "u01321",
+      "before": "{angry1}[opponent had shit cards and won]真他妈棒。纯——粹——狗屎。",
+      "after": "{angry1}[opponent had shit cards and won]真是太棒了。纯——粹——狗屎。",
+      "review": "solos_review.json"
+    },
+    {
+      "uid": "u01344",
+      "before": "{angry1}[bad turn card]什么？！第四张牌本来该让我变得天下无敌敌敌敌！",
+      "after": "{angry1}[bad turn card]什么？！第四张牌本来该让我这手牌天下无敌敌敌敌！",
+      "review": "solos_review.json"
+    },
+    {
+      "uid": "u01558",
+      "before": "{stunned1}[Ugh, fine to just finish the second half of this chewy granola bar, guns pulled on him halfway through]——把这根{frustrated1}嚼劲十足的燕麦棒剩下的半根吃完，保证让我{pissed1}输掉一座金山后重新开心起来。脆皮耶稣他妈的！",
+      "after": "{stunned1}[Ugh, fine to just finish the second half of this chewy granola bar, guns pulled on him halfway through]——把这根{frustrated1}嚼劲十足的燕麦棒剩下的半根吃完，保证让我{pissed1}输掉一座金山后重新开心起来。脆皮耶稣基督啊！",
+      "review": "solos_review.json"
+    },
+    {
+      "uid": "u01591",
+      "before": "{frustrated1}这就像****连续摸到九张法术力牌。{worried1}有人懂吗？",
+      "after": "{frustrated1}这就像他妈的连续抽到九张地牌。{worried1}有人懂吗？",
+      "review": "solos_review.json"
+    },
+    {
+      "uid": "u00866",
+      "before": "{sarcastic}当然，这是在 1910 年定下的金额。考虑到通货膨胀……嗯，让我算算……呃，{cocky}今晚的入场筹码就是一万美元。",
+      "after": "{sarcastic}当然，这个金额是在1910年定下的。考虑到通货膨胀……嗯，让我算算……呃，{cocky}今晚的入场筹码就是一万美元。",
+      "review": "zz_parent_review.json"
+    },
+    {
+      "uid": "u00905",
+      "before": "{happy}这家俱乐部成立于一九一九年，当时是为了应对美国宪法第十八修正案的一份早期草案。",
+      "after": "{happy}这家俱乐部成立于1919年，当时是为了应对美国宪法第18修正案的一份早期草案。",
+      "review": "zz_parent_review.json"
+    },
+    {
+      "uid": "u01266",
+      "before": "打得不错。{sarcastic1}咱俩一起走，去趟 OG——你请客——再拿剩下的钱买些新 procs，怎么样？{mocking1}现在那上面都装旋转轮毂了。",
+      "after": "打得不错。{sarcastic1}咱俩一起走，去趟 OG——你请客——再拿剩下的钱买点新处理器，怎么样？{mocking1}现在那上面都装旋转轮毂了。",
+      "review": "zz_parent_review.json"
+    },
+    {
+      "uid": "u01591",
+      "before": "{frustrated1}这就像他妈的连续抽到九张地牌。{worried1}有人懂吗？",
+      "after": "{frustrated1}这就像****连续抽到九张地牌。{worried1}有人懂吗？",
+      "review": "zz_parent_review.json"
+    },
+    {
+      "uid": "u02127",
+      "before": "这就像他妈的一连抽到九张法术力牌。有人懂吗？",
+      "after": "这就像他妈的一连抽到九张地牌。有人懂吗？",
+      "review": "zz_parent_review.json"
+    }
+  ]
+}

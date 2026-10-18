@@ -1,0 +1,29 @@
+name: 汉化或安装问题
+description: 反馈《怪诞扑克夜》中文文本、界面或安装问题
+title: "[问题] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 汉化版本与游戏 build
+      placeholder: v0.2.1 / build 25257439
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 问题类型
+      options:
+        - 安装或卸载
+        - 中文缺字或布局
+        - 翻译或漏翻
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 复现步骤和问题文字
+      description: 请附页面或角色、截图及其他模组情况；不要上传存档、认证信息或个人文件。
+    validations:
+      required: true

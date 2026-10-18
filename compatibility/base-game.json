@@ -1,0 +1,82 @@
+[
+  {
+    "name": "_resdesc_50_Boot.lua",
+    "bytes": 664,
+    "sha256": "5e57f717b520bce09643c9ef20103c0e78213b40e19cd2ce6a1f229ae92e23bf"
+  },
+  {
+    "name": "_resdesc_50_Common.lua",
+    "bytes": 738,
+    "sha256": "5ca9705d7ff810590ae6acee9dc15b294761fbb9954ac46104c7ddea840d761d"
+  },
+  {
+    "name": "_resdesc_50_Engine_Lua.lua",
+    "bytes": 672,
+    "sha256": "455ca00ae0f2b179d0a1447d5fd91a6f4c79c394e2f450a6456f1a700e28ecb8"
+  },
+  {
+    "name": "_resdesc_50_Project.lua",
+    "bytes": 682,
+    "sha256": "47c82626f4060e227260862b78b5dc6d3a044df53aec42efef06b463c75608be"
+  },
+  {
+    "name": "_resdesc_50_Shaders.lua",
+    "bytes": 657,
+    "sha256": "a3c09d4ebe22045d5352f5a95568ea0211fcc4dad002a98da9f9255ba7de284c"
+  },
+  {
+    "name": "_resdesc_50_Tool.lua",
+    "bytes": 740,
+    "sha256": "26e2dac81501c8b3c08b5daae627761dc456388f95ee529924f6553d51e26ad6"
+  },
+  {
+    "name": "_resdesc_50_Uncensored.lua",
+    "bytes": 701,
+    "sha256": "cc1ff7c135ba0cb01b7ede17dd843fca97e80cb68b6b35262c5954f7681df456"
+  },
+  {
+    "name": "_resdesc_50_version_100.lua",
+    "bytes": 120,
+    "sha256": "b49fa841bf6cce15ad51bf9f7e8d25c8920673db130d170f4e9afc341a49d55e"
+  },
+  {
+    "name": "CP_pc_Boot_compressed.ttarch2",
+    "bytes": 16177,
+    "sha256": "b90598feca7e52d4a3538380a3f73a8192a820f35300be0f7c91b6bcddfa4644"
+  },
+  {
+    "name": "CP_pc_Common_compressed.ttarch2",
+    "bytes": 866557342,
+    "sha256": "8a749b99bcc8d6ea16060444f6e82597ba5938a9d214f762e02c1839a1d49c57"
+  },
+  {
+    "name": "CP_pc_Common_uncompressed.ttarch2",
+    "bytes": 73359728,
+    "sha256": "b31bf381dbd53a6cab169fd88e403310a46caac476e379ca8940e059ee3f2b9e"
+  },
+  {
+    "name": "CP_pc_Engine_Lua_data.ttarch2",
+    "bytes": 244259,
+    "sha256": "58b96ad84b0fe27b6122af6d1f0996f75ad274a76129ff24ac24960621879635"
+  },
+  {
+    "name": "CP_pc_Project_compressed.ttarch2",
+    "bytes": 1921956,
+    "sha256": "6684d1e74a9c296107168ebe729e280d4163f616df697f933fb5e129a2fa1fdc"
+  },
+  {
+    "name": "CP_pc_Shaders_mem.ttarch2",
+    "bytes": 55666629,
+    "sha256": "0ec19e52f80bf54516ade9b2c950b88b70dcc8828cd001c2599313f3f42da0e5"
+  },
+  {
+    "name": "CP_pc_Tool_txmesh.ttarch2",
+    "bytes": 260075,
+    "sha256": "ed6124b901b7421bdfb6c818af19cf472cf722c5fc1a0b15400bceda3d250f03"
+  },
+  {
+    "name": "CP_pc_Uncensored_uncompressed.ttarch2",
+    "bytes": 1307148,
+    "sha256": "88529ea5a182144106989a81b477c697a554cf130eb39770642e2953a18c7fc2"
+  }
+]

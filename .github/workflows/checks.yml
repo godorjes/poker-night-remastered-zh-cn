@@ -1,0 +1,17 @@
+name: Installer checks
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  windows-installer:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test with Windows PowerShell 5.1
+        shell: pwsh
+        run: |
+          & "$env:SystemRoot/System32/WindowsPowerShell/v1.0/powershell.exe" -NoLogo -NoProfile -NonInteractive -ExecutionPolicy Bypass -File tests/Installer.Tests.ps1 -TestRoot "$env:RUNNER_TEMP/pn"
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }

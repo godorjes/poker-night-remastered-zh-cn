@@ -1,0 +1,77 @@
+{
+  "buildid": "25257439",
+  "files": [
+    {
+      "stage": "A_ASCII",
+      "name": "CP_pc_Common_CNProbe.ttarch2",
+      "bytes": 3872,
+      "sha256": "46bde26b38658a9394b2b9a854b673b82d75491aa46c5b0f41677802139e71cd"
+    },
+    {
+      "stage": "A_ASCII",
+      "name": "_resdesc_50_Common_CNProbe.lua",
+      "bytes": 677,
+      "sha256": "754808d718709b27316de40675b13935a995fd3a03f4ea980af67920dc3e20d3"
+    },
+    {
+      "stage": "B_UTF8_NoFont",
+      "name": "CP_pc_Common_CNProbe.ttarch2",
+      "bytes": 3878,
+      "sha256": "2ed4f3f2e8ab6f6d034771ef1da1a344676a47c15dbad5c0f53acdc4455fceaa"
+    },
+    {
+      "stage": "B_UTF8_NoFont",
+      "name": "_resdesc_50_Common_CNProbe.lua",
+      "bytes": 677,
+      "sha256": "754808d718709b27316de40675b13935a995fd3a03f4ea980af67920dc3e20d3"
+    },
+    {
+      "stage": "C_UTF8_WithFont",
+      "name": "CP_pc_Common_CNProbe.ttarch2",
+      "bytes": 15032021,
+      "sha256": "e873a93376124d2289f0ec79689822e4fc13d4f1610f7f2bbbbe109a3e49fcd5"
+    },
+    {
+      "stage": "C_UTF8_WithFont",
+      "name": "_resdesc_50_Common_CNProbe.lua",
+      "bytes": 677,
+      "sha256": "754808d718709b27316de40675b13935a995fd3a03f4ea980af67920dc3e20d3"
+    },
+    {
+      "stage": "D_SubtitleProbe",
+      "name": "CP_pc_Common_CNProbe.ttarch2",
+      "bytes": 15040188,
+      "sha256": "b0461ce900f9ebbace1f88883125b10f73cbd43e632e6415e432d2e993c673cf"
+    },
+    {
+      "stage": "D_SubtitleProbe",
+      "name": "_resdesc_50_Common_CNProbe.lua",
+      "bytes": 677,
+      "sha256": "754808d718709b27316de40675b13935a995fd3a03f4ea980af67920dc3e20d3"
+    },
+    {
+      "stage": "F_FullTextDraft",
+      "name": "CP_pc_Boot_CNProbeBoot.ttarch2",
+      "bytes": 7382194,
+      "sha256": "e17ccc08fd09c03881f8e319300b5a64a69cb727059b468509ee129389e9dc22"
+    },
+    {
+      "stage": "F_FullTextDraft",
+      "name": "CP_pc_Common_CNProbe.ttarch2",
+      "bytes": 60365383,
+      "sha256": "3a2bbeca7188ec879b0c206dec824a563588db3f9110e20bdc43c29752ca496a"
+    },
+    {
+      "stage": "F_FullTextDraft",
+      "name": "_resdesc_50_Boot_CNProbeBoot.lua",
+      "bytes": 686,
+      "sha256": "4607ea6f9872ae585905d0a78bb621186bc371809503d12287a20579cfee6a80"
+    },
+    {
+      "stage": "F_FullTextDraft",
+      "name": "_resdesc_50_Common_CNProbe.lua",
+      "bytes": 677,
+      "sha256": "754808d718709b27316de40675b13935a995fd3a03f4ea980af67920dc3e20d3"
+    }
+  ]
+}
